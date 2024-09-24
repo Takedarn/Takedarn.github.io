@@ -1,2 +1,2 @@
 # アクセス先
-takedarn.github.io
+https://takedarn.github.io/
